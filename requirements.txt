@@ -1,0 +1,8 @@
+fastapi==0.109.1
+uvicorn==0.29.0
+pydantic
+opencv-python-headless
+numpy
+zep-python
+imgbeddings==0.1.0
+python-multipart
